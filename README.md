@@ -1,2 +1,2 @@
-# Sanguosha_Bilble_Version
- Sanguosha_Bilble_Version
+# 圣经版三国杀
+ 圣经版三国杀
